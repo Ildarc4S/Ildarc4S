@@ -22,7 +22,7 @@ Here, you can explore my projects and skills.
 [![Linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ildar-stepanov-349bbb302/)
 [![Gmail](https://img.shields.io/badge/gmail-ea2845?style=for-the-badge&logo=Gmail&logoColor=white)](https://www.linkedin.com/in/ildar-stepanov-349bbb302/)
 
-<div style="display: flex; justify-content: flex-start;">
+<div style="display: flex; align-items: flex-start;">
   <div style="margin-right: 20px;">
     <a href="https://leetcode.com/u/majorswe">
       <img src="https://leetcard.jacoblin.cool/majorswe" alt="Leetcode Stats" />
@@ -30,7 +30,7 @@ Here, you can explore my projects and skills.
   </div>
   <div>
     <a href="https://github.com/Ildarc4S">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ildarc4S&theme=dark&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ildarc4S&theme=dark" alt="Top Languages" />
     </a>
   </div>
 </div>
