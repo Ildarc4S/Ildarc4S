@@ -12,6 +12,9 @@ I am a student at School 21, focused on learning the C and C++ programming langu
 ![Bash](https://img.shields.io/badge/Bash-311C87?style=flat-square&logo=Bash&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-5849BE?style=flat-square&logo=CMake&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-007ACC?style=flat-square&logo=Make&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-blue?style=flat-square&logo=Vim&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ildarc4S&layout=compact)](https://github.com/Ildarc4S)
 
 ### Connect with me
 
@@ -19,4 +22,4 @@ I am a student at School 21, focused on learning the C and C++ programming langu
 [![Linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ildar-stepanov-349bbb302/)
 [![Gmail](https://img.shields.io/badge/gmail-ea2845?style=for-the-badge&logo=Gmail&logoColor=white)](https://www.linkedin.com/in/ildar-stepanov-349bbb302/)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Ildarc4S)](https://leetcode.com/u/ildarca/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/majorswe)](https://leetcode.com/u/majorswe/)``
