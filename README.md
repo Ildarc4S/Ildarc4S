@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Ildar 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-I am a student at School 21, and my nickname is majorswe. 
-I am focused on learning the C and C++ programming languages. 
+I am a student at `School 21`, and my nickname is `majorswe`.  
+I am focused on learning the C and C++ programming languages.  
 Here, you can explore my projects and skills.
 
 ### Languages and Tools
@@ -23,7 +23,7 @@ Here, you can explore my projects and skills.
 [![Gmail](https://img.shields.io/badge/gmail-ea2845?style=for-the-badge&logo=Gmail&logoColor=white)](https://www.linkedin.com/in/ildar-stepanov-349bbb302/)
 
 <div style="display: flex; align-items: flex-start;">
-  <div>
+  <div >
     <a href="https://leetcode.com/u/majorswe">
       <img src="https://leetcard.jacoblin.cool/majorswe" alt="Leetcode Stats" />
     </a>
