@@ -16,7 +16,7 @@ I am a student at School 21, focused on learning the C and C++ programming langu
 ### Connect with me
 
 [![Telegram](https://img.shields.io/badge/telegram-5849BE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lldarSR)
-[![Linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ildar-stepanov-349bbb302/)
-[![Gmail](https://img.shields.io/badge/gmail-ea2845?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ildar-stepanov-349bbb302/)
+[![Linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ildar-stepanov-349bbb302/)
+[![Gmail](https://img.shields.io/badge/gmail-ea2845?style=for-the-badge&logo=Gmail&logoColor=white)](https://www.linkedin.com/in/ildar-stepanov-349bbb302/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Ildarc4S)](https://leetcode.com/u/ildarca/)
