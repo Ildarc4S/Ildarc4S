@@ -22,5 +22,5 @@ Here, you can explore my projects and skills.
 [![Linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ildar-stepanov-349bbb302/)
 [![Gmail](https://img.shields.io/badge/gmail-ea2845?style=for-the-badge&logo=Gmail&logoColor=white)](https://www.linkedin.com/in/ildar-stepanov-349bbb302/)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/majorswe)](https://leetcode.com/u/majorswe/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ildarc4S&layout=compact)](https://github.com/Ildarc4S)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/majorswe)](https://leetcode.com/u/majorswe)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ildarc4S&theme=dark)](https://github.com/Ildarc4S)
