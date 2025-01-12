@@ -23,7 +23,7 @@ Here, you can explore my projects and skills.
 [![Gmail](https://img.shields.io/badge/gmail-ea2845?style=for-the-badge&logo=Gmail&logoColor=white)](https://www.linkedin.com/in/ildar-stepanov-349bbb302/)
 
 <div style="display: flex; align-items: flex-start;">
-  <div style="margin-right: 2px;">
+  <div>
     <a href="https://leetcode.com/u/majorswe">
       <img src="https://leetcard.jacoblin.cool/majorswe" alt="Leetcode Stats" />
     </a>
